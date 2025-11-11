@@ -1,14 +1,30 @@
-# 🎓 Certificates & Learning Journey
+# 📘 IBM Generative AI Engineering — Course 1 Study Guide
 
-This folder documents my progress through IBM and Coursera courses in Data Analysis and Generative AI.
+This repository contains my personal study guide for **Course 1 of IBM's Generative AI Engineering specialization**.  
+The guide is a **50‑page PDF** summarizing every lecture and lab, designed to turn passive learning into an active, reusable resource.
 
-## Completed Courses
-- Artificial Intelligence Essentials V2 (Coursera, Nov 2025)
-- Python Project for Data Science (Coursera, Nov 2025)
-- Python for Data Science and AI (Coursera, Oct 2025)
-- Data Visualization & Dashboard Essentials (Coursera, Aug 2025)
-- Excel Essentials for Data Analytics (Coursera, Jul 2025)
-- Data Analytics Essentials (Coursera, Jun 2025)
+## 🔹 Overview
+- Summarized all video lectures and labs into structured notes
+- Covered fundamentals of Generative AI, prompt engineering, and applications
+- Documented key takeaways, definitions, and workflows
+- Created a resource for quick reference and knowledge sharing
 
-## Badge Wallet
-Verified badges available on [Credly](https://www.credly.com/users/siavash-ahmadi.72cc6f41).
+## 🔹 Why This Matters
+Instead of just completing the course, I actively documented the content to:
+- Reinforce my own understanding
+- Build a resource for peers and future learners
+- Demonstrate my approach: **learn deeply, document clearly, share openly**
+
+## 📂 Files
+- `IBM_GenAI_Course1_Summary.pdf` → Full 50‑page study guide
+
+## 🔹 Skills Demonstrated
+- Generative AI fundamentals
+- Prompt engineering
+- Technical writing & documentation
+- Knowledge management
+
+---
+
+💡 *This project reflects my commitment to transforming learning into tangible outputs.  
+Always learning. Always building. 🚀*
